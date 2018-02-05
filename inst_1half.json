@@ -531,7 +531,7 @@
 "acronym":"IIST","federation":"Deemed","city":"Thiruvananthapuram","alt-city":"Trivandrum","District":"Thiruvananthapuram","state":"Kerala"}
 {"id":,"apID":"APINS00000","name":"Kerala Kalamandalam,Thrissur","alt-name":["Kerala Kalamandalam,Trichur",
                                                                              "Kerala Kalamandalam,Kerala",
-                                                                            "Kerala Kalamandalam Deemed University of Art and Culture,Thrissur"",       
+                                                                            "Kerala Kalamandalam Deemed University of Art and Culture,Thrissur",       
                                                                              "Kerala Kalamandalam Deemed University of Art and Culture,Trichur",
                                                                              "Kerala Kalamandalam Deemed University of Art and Culture,Kerala"],
 "acronym":"","federation":"Deemed","city":"Thrissur","alt-city":"Trichur","District":"Thrissur","state":"Kerala"}
@@ -539,7 +539,7 @@
                                                                                 "BLDE Deemed University,Vijayapura",
                                                                                 "BLDE Deemed University,Bijapur",
                                                                                 "B.L.D.E.University,Karnataka",
-                                                                                "BLDE Deemed University,Karnataka",],
+                                                                                "BLDE Deemed University,Karnataka"],
 "acronym":"","federation":"Deemed","city":"Vijayapura","alt-city":" Bijapur","District":"Bangalore Rural","state":"Karnataka"}
 {"id":17693,"apID":"APINS00000","name":"Christ University,Bangalore","alt-name":["Christ University,Bengaluru",                               
                                                                                  "Christ Deemed University,Bengalore",
@@ -560,7 +560,7 @@
                                                                                                            "IIIT-B,,Karnataka",
                                                                                                             "IIIT-B,,Bengaluru"],
 "acronym":"IIIT-B,","federation":"Deemed","city":"Bangalore","alt-city":"Bengaluru","District":"Bangalore","state":"Karnataka"}
-{"id":1155,"apID":"APINS00000","name":"International Institute of Information Technology,Hyderabad","alt-name":["ICMR-National Institute of Nutrition,Hyderabad ",
+{"id":1155,"apID":"APINS00000","name":"International Institute of Information Technology,Hyderabad","alt-name":["ICMR-National Institute of Nutrition,Hyderabad",
                                                                                                 "International Institute of Information Technology,Telangana",
                                                                                                 "IIIT,Hyderabad",
                                                                                                 "IIIT,Telangana"],
@@ -568,7 +568,7 @@
 {"id":12287,"apID":"APINS00000","name":"Jagadguru Sri Shivarathreeswara University,Mysore","alt-name":["Jagadguru Sri Shivarathreeswara University,Mysuru",
                                                                                                         "Jagadguru Sri Shivarathreeswara University,Karnataka",
                                                                                                         "JSS College of Pharmacy (Jagadguru Sri Shivarathreeswara University,Mysore",
-                                                                                                        "Jagadguru Sri Shivarathreeswara Dental College, Mysore",
+                                                                                                        "Jagadguru Sri Shivarathreeswara Dental College,Mysore",
                                                                                                         "JSS University,Mysore",
                                                                                                         "JSS University,Mysuru",
                                                                                                         "JSS University,Karnataka",

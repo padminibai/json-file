@@ -69,7 +69,7 @@
                                                                                                              "NIRT,Chennai",
                                                                                                              "NIRT,Madras",
                                                                                                              "ICMR-NIRT,Chennai",
-                                                                                                             "ICMR-NIRT,Madras"
+                                                                                                             "ICMR-NIRT,Madras",
                                                                                                             "NIRT,Tamil Nadu"],
 "acronym":"NIRT","federation":"ICMR","city":"Chennai","alt-city":" Madras","District":"Chennai","state":"Tamil Nadu"}
 {"id":24672,"apID":"APINS00000","name":"National Institute of Epidemiology,Chennai","alt-name":["ICMR-National Institute of Epidemiology,Chennai",
@@ -608,9 +608,9 @@
 "acronym":"KAHER","federation":"Deemed","city":"Belagavi","alt-city":"Belgaum","District":"Belagavi","state":"Karnataka"}
 {"id":3942,"apID":"APINS00000","name":"NITTE University, Mangalore","alt-name":["Nitte University",
                                                                                 "Nitte University Mangalore",
-                                                                                 "Nitte UniversityMangalore, Mangalore",   
-                                                                                  "Nitte University, Mangalore",
-                                                                                  "Nitte University Center for Science Education and Research, Mangalore"",
+                                                                                 "Nitte UniversityMangalore,Mangalore",   
+                                                                                  "Nitte University,Mangalore",
+                                                                                  "Nitte University Center for Science Education and Research, Mangalore",
                                                                                   "Nitte University Centre for Science Education and Research (NUCSER), Mangalore",
                                                                                   "NITTE, Mangalore",
                                                                                    "NITTE,Mangaluru"],
